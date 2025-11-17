@@ -1,0 +1,13 @@
+transaction_id,transaction_date,region,product_line,customer_segment,revenue,cost
+TR1001,2024-01-01,East,Pharmacy,Retail,1200.50,800.30
+TR1002,2024-01-01,West,Specialty,Retail,2300.00,1600.00
+TR1003,2024-01-01,South,Pharmacy,Corporate,1800.75,1200.50
+TR1004,2024-01-02,East,Mail,Retail,950.40,600.10
+TR1005,2024-01-02,West,Pharmacy,Retail,1450.25,900.20
+TR1006,2024-01-02,North,Specialty,Corporate,2750.90,1850.60
+TR1007,2024-01-03,East,Pharmacy,Retail,1600.30,1050.25
+TR1008,2024-01-03,South,Mail,Retail,890.50,550.35
+TR1009,2024-01-03,North,Pharmacy,Corporate,2200.10,1500.80
+TR1010,2024-01-04,West,Specialty,Retail,2600.75,1700.40
+TR1011,2024-01-04,South,Pharmacy,Retail,1350.60,880.20
+TR1012,2024-01-04,East,Mail,Corporate,990.45,640.30

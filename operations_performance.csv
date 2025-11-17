@@ -1,0 +1,13 @@
+ticket_id,queue_name,agent_name,created_at,resolved_at,priority,status,sla_breached,handle_time_minutes
+T1001,Prior Auth,Alex Gomez,2024-01-05 09:12:00,2024-01-05 09:45:00,High,Closed,No,33
+T1002,Claims Review,Sara Lee,2024-01-05 09:20:00,2024-01-05 10:10:00,Medium,Closed,No,50
+T1003,Customer Support,John Park,2024-01-05 09:30:00,2024-01-05 11:05:00,High,Closed,Yes,95
+T1004,Prior Auth,Alex Gomez,2024-01-06 10:00:00,2024-01-06 10:40:00,Low,Closed,No,40
+T1005,Claims Review,Emily Chen,2024-01-06 10:15:00,2024-01-06 11:30:00,High,Closed,Yes,75
+T1006,Customer Support,John Park,2024-01-06 10:25:00,2024-01-06 11:00:00,Medium,Closed,No,35
+T1007,Prior Auth,Michael Brown,2024-01-07 09:05:00,2024-01-07 10:00:00,High,Closed,No,55
+T1008,Claims Review,Sara Lee,2024-01-07 09:40:00,2024-01-07 10:50:00,Low,Closed,No,70
+T1009,Customer Support,Emily Chen,2024-01-07 10:00:00,2024-01-07 11:45:00,High,Closed,Yes,105
+T1010,Prior Auth,Michael Brown,2024-01-08 09:10:00,2024-01-08 09:50:00,Medium,Closed,No,40
+T1011,Claims Review,Sara Lee,2024-01-08 09:25:00,,High,Open,No,0
+T1012,Customer Support,John Park,2024-01-08 09:35:00,,Medium,Pending,No,0
