@@ -1,1 +1,10 @@
 css placeholder
+.dashboard-header {
+    background-color: #002f5f !important;
+    color: #ffffff !important;
+}
+
+.chart-container {
+    border-radius: 10px;
+    padding: 12px;
+}
