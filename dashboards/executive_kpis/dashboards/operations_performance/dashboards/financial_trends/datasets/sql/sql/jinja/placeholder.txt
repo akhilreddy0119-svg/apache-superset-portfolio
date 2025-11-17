@@ -1,1 +1,4 @@
 jinja placeholder
+SELECT *
+FROM operations
+WHERE region IN ({{ "'" + "','".join(filter_values("region")) + "'" }})
