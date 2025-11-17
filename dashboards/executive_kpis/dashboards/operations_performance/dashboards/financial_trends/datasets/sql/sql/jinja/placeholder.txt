@@ -1,4 +1,11 @@
 jinja placeholder
+Parameterized Date Filter
+SELECT *
+FROM sales_data
+WHERE order_date BETWEEN
+    '{{ filter_values("date_start")[0] }}'
+AND '{{ filter_values("date_end")[0] }}'
+Dynamic Region Selection
 SELECT *
 FROM operations
 WHERE region IN ({{ "'" + "','".join(filter_values("region")) + "'" }})
